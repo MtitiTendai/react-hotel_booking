@@ -36,6 +36,7 @@ iv. Start the frontend and backend servers. <br>
 - Admins can manage hotels, rooms, and reservations from the dashboard.
 
 # The Dashboard Interface
+![Uploading Screenshot (68).png…]()
 
 
 ## Future Improvements
