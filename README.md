@@ -1,12 +1,48 @@
-# React + Vite
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+User authentication (signup/login)
 
-Currently, two official plugins are available:
+Search and book hotel rooms
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Manage and view booking history
 
-## Expanding the ESLint configuration
+Admin dashboard for hotels, rooms, and reservations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive and user-friendly interface
+
+Tech Stack
+
+Frontend: React
+
+Backend: Flask
+
+Database: MySQL
+
+Installation
+
+Clone the repository to your local machine.
+
+Install dependencies for both frontend and backend.
+
+Configure database connection settings.
+
+Start the frontend and backend servers.
+
+## Usage
+
+- Users can register or log in to search and book hotel rooms.
+
+- Admins can manage hotels, rooms, and reservations from the dashboard.
+
+The Dashboard Interface
+
+
+Future Improvements
+
+Integration with online payment gateways
+
+Email/SMS booking confirmations
+
+Multi-language support
+
+Recommendation system for users
