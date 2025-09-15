@@ -1,32 +1,33 @@
-Features
+# Simple Hotel Booking System
 
-User authentication (signup/login)
+## Features
+a. User authentication (signup/login) <br>
 
-Search and book hotel rooms
+b. Search and book hotel rooms <br>
 
-Manage and view booking history
+c. Manage and view booking history <br>
 
-Admin dashboard for hotels, rooms, and reservations
+d. Admin dashboard for hotels, rooms, and reservations <br>
 
-Responsive and user-friendly interface
+e. Responsive and user-friendly interface <br>
 
-Tech Stack
+## Tech Stack (Technologies used in development of a fullstack booking system)
 
-Frontend: React
+- <b> Frontend: React
 
-Backend: Flask
+- <b> Backend: Nodejs + Exprees
 
-Database: MySQL
+- <b> Database: MongoDb
 
-Installation
+# Installation
+This involves the process of configuring all necessary requiremens of the project
+i. Clone the repository to your local machine. <br>
 
-Clone the repository to your local machine.
+ii. Install dependencies for both frontend and backend. <br>
 
-Install dependencies for both frontend and backend.
+iii. Configure database connection settings. <br>
 
-Configure database connection settings.
-
-Start the frontend and backend servers.
+iv. Start the frontend and backend servers. <br>
 
 ## Usage
 
@@ -34,15 +35,15 @@ Start the frontend and backend servers.
 
 - Admins can manage hotels, rooms, and reservations from the dashboard.
 
-The Dashboard Interface
+# The Dashboard Interface
 
 
-Future Improvements
+## Future Improvements
 
-Integration with online payment gateways
+*** Integration with online payment gateways
 
-Email/SMS booking confirmations
+*** Email/SMS booking confirmations
 
-Multi-language support
+*** Multi-language support
 
-Recommendation system for users
+*** Recommendation system for users
