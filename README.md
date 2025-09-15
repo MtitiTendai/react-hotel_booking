@@ -1,4 +1,5 @@
 # Simple Hotel Booking System
+A full-stack web application designed to simplify hotel room reservations. It allows users to browse available rooms, make bookings, and track their reservation history, while administrators can manage hotels, rooms, and customer bookings through a dedicated dashboard. The system demonstrates practical implementation of user authentication, database integration, and responsive UI design. <br>
 
 ## Features
 a. User authentication (signup/login) <br>
